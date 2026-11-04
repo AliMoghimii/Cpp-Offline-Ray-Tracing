@@ -1,9 +1,6 @@
-# Offline C++ Raytracer (W.I.P)
+# Offline C++ Raytracer
 
 A basic Raytracer with no external dependencies, implemented in C/C++ as part of my 3D graphics and computer simulations learning process. feel free to fork, comment suggestions, tips or add pull requests. </br>
-
-> [!NOTE]  
-> This project is a work in progress.
 
 # Step-by-Step Results
 
